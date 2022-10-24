@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbilityScoreTester", "AbilityScoreTester\AbilityScoreTester.csproj", "{EABCFD7A-BBA5-42BD-8932-1B66B30AEFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABCFD7A-BBA5-42BD-8932-1B66B30AEFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABCFD7A-BBA5-42BD-8932-1B66B30AEFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABCFD7A-BBA5-42BD-8932-1B66B30AEFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABCFD7A-BBA5-42BD-8932-1B66B30AEFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF1BB13-C98D-4823-ADB4-FB3A70B0A07F}
+	EndGlobalSection
+EndGlobal
